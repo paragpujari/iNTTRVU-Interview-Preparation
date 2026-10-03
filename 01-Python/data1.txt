@@ -1,0 +1,7 @@
+New data
+Python
+SQL
+PySpark
+Azure
+DataBricks
+Data modelling and warehousing

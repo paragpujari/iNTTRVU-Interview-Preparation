@@ -1,0 +1,5 @@
+ADF
+Synapse
+Fabric
+Datalake
+Governance
